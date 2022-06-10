@@ -11,7 +11,7 @@
     <artifactId>dubbo-2.5.3-learing</artifactId>
 
     <properties>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
     </properties>
 
     <dependencies>
